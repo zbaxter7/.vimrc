@@ -4,7 +4,6 @@ set encoding=utf-8
 set ruler
 set number
 set cursorline
-hi CursorLine cterm=NONE ctermbg=darkgray ctermfg=NONE guibg=lightgrey guifg=white
 
 set background=dark
 
